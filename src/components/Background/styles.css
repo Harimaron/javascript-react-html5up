@@ -1,0 +1,11 @@
+:local(.wrapper) {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url("https://i.imgur.com/NYSBMFF.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
